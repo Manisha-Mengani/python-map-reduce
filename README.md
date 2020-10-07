@@ -36,11 +36,11 @@ cat part.txt | python 21mapper.py | sort  | python 22reducer.py
 ```
 
 ## References
-
+- [denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
 - [Udacity "Introduction to Hadoop and MapReduce"](https://classroom.udacity.com/courses/ud617/)
 - [IBM Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science)
 - [Basic Setup for Big Data](https://github.com/denisecase/basic-setup-for-bigdata)
 
 ## Repository
 
-- [https://github.com/denisecase/python-map-reduce](https://github.com/denisecase/python-map-reduce)
+- [https://github.com/Manisha-Mengani/python-map-reduce](https://github.com/Manisha-Mengani/python-map-reduce)
